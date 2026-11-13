@@ -1,0 +1,21 @@
+Date,Order_ID,Region,Salesperson,Product,Category,Quantity,Unit_Price
+01/09/2026,ORD1001,Glasgow,Aisha Khan,Laptop Stand,Accessories,3,32.5
+01/09/2026,ORD1002,Edinburgh,Ben Fraser,Wireless Mouse,Accessories,5,24.99
+02/09/2026,ORD1003,Aberdeen,Cara Reid,USB-C Dock,Hardware,2,89
+02/09/2026,ORD1004,Glasgow,Aisha Khan,Webcam,Hardware,4,54.5
+03/09/2026,ORD1005,Dundee,David Singh,Headset,Accessories,6,39.95
+03/09/2026,ORD1006,Edinburgh,Ben Fraser,USB-C Dock,Hardware,1,89
+04/09/2026,ORD1007,Glasgow,Emma Scott,Wireless Mouse,Accessories,8,24.99
+04/09/2026,ORD1008,Aberdeen,Cara Reid,Webcam,Hardware,3,54.5
+05/09/2026,ORD1009,Dundee,David Singh,Laptop Stand,Accessories,4,32.5
+05/09/2026,ORD1010,Edinburgh,Emma Scott,Headset,Accessories,5,39.95
+06/09/2026,ORD1011,Glasgow,Aisha Khan,USB-C Dock,Hardware,2,89
+06/09/2026,ORD1012,Aberdeen,Cara Reid,Wireless Mouse,Accessories,7,24.99
+07/09/2026,ORD1013,Dundee,David Singh,Webcam,Hardware,2,54.5
+07/09/2026,ORD1014,Edinburgh,Ben Fraser,Laptop Stand,Accessories,5,32.5
+08/09/2026,ORD1015,Glasgow,Emma Scott,Headset,Accessories,3,39.95
+08/09/2026,ORD1016,Aberdeen,Cara Reid,USB-C Dock,Hardware,2,89
+09/09/2026,ORD1017,Dundee,David Singh,Wireless Mouse,Accessories,9,24.99
+09/09/2026,ORD1018,Edinburgh,Ben Fraser,Webcam,Hardware,3,54.5
+10/09/2026,ORD1019,Glasgow,Aisha Khan,Laptop Stand,Accessories,6,32.5
+10/09/2026,ORD1020,Aberdeen,Emma Scott,Headset,Accessories,4,39.95
